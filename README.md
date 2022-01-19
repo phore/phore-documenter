@@ -4,6 +4,6 @@ Documenter for generating inline documentation
 <!--doc:header-->
 
 <!--/doc:header-->
-<p>Some text goes<br>here</p>
+<p title="This is the text displayed on hover">Some text goes<br>here</p>
 
 
