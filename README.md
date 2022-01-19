@@ -1,7 +1,9 @@
 # phore-documenter
 Documenter for generating inline documentation
 
-<!-- Inline block -->
+<!--doc:header-->
+
+<!--/doc:header-->
 <p>Some text goes<br>here</p>
 
 
