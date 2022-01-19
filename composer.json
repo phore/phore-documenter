@@ -1,0 +1,30 @@
+{
+  "name": "phore/documenter",
+  "description": "Inline documentation generator",
+  "keywords": ["unit test", "tester", "phore"],
+  "license": "MIT",
+  "authors": [
+    { "name": "Matthias Leuffen", "email": "m@tth.es" }
+  ],
+  "repositories": [
+  ],
+  "require": {
+    "php": ">=7.2",
+    "ext-json": "*",
+    "phore/core": "*",
+    "phore/filesystem": "*"
+  },
+  "autoload": {
+    "psr-4": {
+      "Phore\\Documenter\\": "src/"
+    },
+    "files": [
+    ]
+  },
+  "config": {
+    "preferred-install": "source"
+  },
+  "bin": [
+
+  ]
+}
